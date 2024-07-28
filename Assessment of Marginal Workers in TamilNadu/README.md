@@ -1,4 +1,4 @@
-# Assessment of Marginal Workers in Tamil Nadu README
+# Assessment of Marginal Workers in Tamil Nadu
 
 This Jupyter Notebook is dedicated to the analysis of demographic characteristics of marginal workers in Tamil Nadu using data from the 2011 Indian Census. The analysis includes data preprocessing, exploratory data analysis, data cleaning, and data visualization. Below are the steps to run this code:
 
